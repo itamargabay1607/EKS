@@ -1,0 +1,6 @@
+image:
+  repository: nginx
+  tag: 1.21.1
+  pullPolicy: IfNotPresent
+service:
+  port: 80

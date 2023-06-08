@@ -1,0 +1,4 @@
+apiVersion: v2
+name: hello-world-chart
+version: 1.0.0
+description: A Helm chart for deploying a hello-world application with a load balancer service on EKS Fargate.
